@@ -34,6 +34,8 @@ dist-ssr/
 .eslintcache
 .vite/
 frontend/.vite/
+*.timestamp*.mjs
+frontend/*.timestamp*.mjs
 
 # OS & Editor
 .DS_Store
